@@ -15,11 +15,11 @@ export SAVINGSCHAMPION_API_CLIENT_SECRET=[your-client-secret]
 Compile the code with Gradle. The following command will download the Gradle build manager and compile the code.
 
 ```bash
-./gradlew build
+sh gradlew build
 ```
 
 Run the code with Gradle.
 
 ```bash
-./gradlew run
+sh gradlew run
 ```
