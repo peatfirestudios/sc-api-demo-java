@@ -1,0 +1,20 @@
+repo_name: peatfirestudios/sc-api-demo-java
+report_id: 28e4874fd54335fef9b14f50c56ca7d3
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-14T09:13:11+00:00'
+requested_by: estevebadia
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/peatfirestudios/sc-api-demo-java
+  detection_source: Repo Metadata
